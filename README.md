@@ -14,9 +14,9 @@
 
 I like turning ideas into working hardware. I design, wire, and print, and I write just enough code to make things move. Most of my builds sit where mechanics, electronics, and quick scripts meet.
 
-* 🔭 Current focus: **Harmony** — a local, always‑on room assistant that listens, plans, and acts. It runs on my server/NAS and a Raspberry Pi, controls devices like a screen, lock, and lights, and pushes info to a room HUD. No cloud brain.
+* 🔭 Current focus: **Harmony**: a local, always‑on room assistant that listens, plans, and acts. It runs on my server/NAS and a Raspberry Pi, controls devices like a screen, lock, and lights, and pushes info to a room HUD. No cloud brain.
 * 🎯 Interests: mechatronics, rapid prototyping, embedded basics, room automation
-* 🧰 Workspace: soldering iron, 3D printer, multimeter, DC supply 32V 5A, server box, and the usual bench tools
+* 🧰 Workspace: soldering iron, 3D printer, multimeter, DC supply, personal server, and the usual bench tools
 
 ## Tech I use
 
